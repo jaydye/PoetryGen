@@ -2,11 +2,16 @@
 ## a tool for generating poetry
 
 Requirements:
-python3
-[markovify](https://github.com/jsvine/markovify)
-[pysle](https://pypi.org/project/pysle/#installation) and the
-[ISLEdict.txt
-file](https://raw.githubusercontent.com/uiuc-sst/g2ps/master/English/ISLEdict.txt)
+
+-python3
+
+-[markovify](https://github.com/jsvine/markovify)
+
+-[pysle](https://pypi.org/project/pysle/#installation) and the
+
+-[ISLEdict.txt
+
+-file](https://raw.githubusercontent.com/uiuc-sst/g2ps/master/English/ISLEdict.txt)
 
 About:
 
